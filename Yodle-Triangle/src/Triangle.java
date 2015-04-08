@@ -1,6 +1,6 @@
 /*
  * Created by Micah T. Moore to solve the Triangle problem presented by Yodle.
- * Description: Looks at the second to last row, traverse each node in the row, and add the greater
+ * Description: Looks at the second to last row, traverse each node in that row, and add the greater
  * value from it's two children to it and place the sum in the current cell. Decrement the row and
  * continue through the routine until the top node is reached,  The value in the top node cell will
  * contain the greatest sum.
